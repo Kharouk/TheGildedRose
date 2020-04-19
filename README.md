@@ -1,5 +1,5 @@
 ## Current Progress
-- [] Ruby
+- [ ] Ruby
 
 # Gilded Rose Refactoring Kata
 
